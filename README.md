@@ -12,6 +12,15 @@ This repository contains an implementation of a Q-learning-based agent for playi
 
 ## Installation
 
+The project code can be run two ways:
+
+### Using the pre-made evironment
+1. Clone this repository to your local machine.
+2. Change directory to `cd prisoners-dilemma-q-learning`.
+2. Activate the qlpd environment `.\qlpd\Scripts\activate.bat`
+3. Run the `game.py` script to train and evaluate the Q-learning agent.
+
+### By installing dependencies
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the `game.py` script to train and evaluate the Q-learning agent.
